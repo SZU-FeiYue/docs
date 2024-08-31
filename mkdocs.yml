@@ -15,14 +15,14 @@ nav:
     - 基础知识: baoyan/basic.md
     - 2025届: 
       - 目录: baoyan/2025/index.md
-      # - 陈天行 - HKU直博@CS: baoyan/2025/cases/tianxingchen.md
+      # - 陈天行 - 直博港大MMLab@CS: baoyan/2025/cases/tianxingchen.md
     - 2024届: 
       - 目录: baoyan/2024/index.md
-      - 何志浩 - 电信 - 上交直博@CS: baoyan/2024/cases/zhihaohe.md
+      - 何志浩 - 电信 - 直博上交@CS: baoyan/2024/cases/zhihaohe.md
       # - 苏梓瀚 - 计软 - 清深、北深、南开@CS: baoyan/2024/cases/zihansu.md
-      - 秦言 - 物光 - HKUST PhD@ECE: baoyan/2024/cases/yanqin.md
-      - 汪贝琪 - 计软 - 华科@CS: baoyan/2024/cases/beiqiwang.md
-      - 陈俊明 - 计软 - 电科@CS: baoyan/2024/cases/junmingchen.md
+      - 秦言 - 物光 - 直博港科@ECE: baoyan/2024/cases/yanqin.md
+      - 汪贝琪 - 计软 - 保研华科@CS: baoyan/2024/cases/beiqiwang.md
+      - 陈俊明 - 计软 - 保研电科@CS: baoyan/2024/cases/junmingchen.md
     - 模版: baoyan/template.md
   - 留学:
     - liuxue/index.md
