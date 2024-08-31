@@ -106,21 +106,11 @@ hr.narrow {margin: 0 10px}
 
 
 ## 贡献方式
+点击一下选择对应板块的模版并填写（.md格式）：【TODO】
 
-### Github PR
+如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.txt` / word `.docx` / `.pdf`）。
 
-您可以直接通过 Github Pull Request 的方式为本项目贡献。不管是为说明指引部分撰写知识还是补充勘误，直接 Github PR 都是比较方便的方式，在本项目的 [GitHub](https://github.com/THU-feiyue/THU-feiyue) 页面中 fork 到自己的库，修改后再提交 PR，我们会在检查通过后发布在页面内。
-
-如果您计划直接以网页的形式发布内容，只需要做如下四步，就像把大象塞进冰箱一样：
-
-1.  从本项目的 [GitHub](https://github.com/THU-feiyue/THU-feiyue) 页面中 fork 到自己的库，开始进行编写；
-2.  自行编写好渲染所需的 `.md` 文件后，放在对应目录下（或是对已有页面进行修改）。
-3.  在 `./mkdocs.yml` 文件中的 `nav:` 部分维护网站导航结构，以确保你的帖子能在网站目录中 access 到；
-4.  提交并推送你的更改到自己的库，然后在 Github 中创建 Pull Request。
-
-### 邮件
-
-如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.txt` / word `.docx` / `.pdf`）发送到邮箱：<mailto:contact@feiyue.online>，手册的维护人员会联系您并为网页排版、组织和发布提供帮助。
+最后发送到邮箱：**chentianxing2002@gmail.com**，手册的维护人员会联系您并为网页排版、组织和发布提供帮助。
 
 <!-- ### 页面评论区
 
