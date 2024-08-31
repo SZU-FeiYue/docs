@@ -32,7 +32,6 @@ nav:
     - 2024届: 
       - 目录: liuxue/2024/index.md
       - 王睿芃 - Upenn master@CS: liuxue/2024/cases/ruipengwang.md
-  
   - 考研:
     - kaoyan/index.md
     - 基础知识: kaoyan/basic.md
@@ -51,7 +50,7 @@ nav:
       - 刘逸飞 - 腾讯、字节、深信服实习: jiuye/2026/cases/yifeililu.md
     - 2024届: 
       - 目录: jiuye/2024/index.md
-
+    - 模版: jiuye/template.md
 theme:
   name: material
   palette:
