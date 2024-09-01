@@ -59,16 +59,22 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-# 委员会成员
+# 深圳大学飞跃手册编写委员会
+
+## 委员会成员
 
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: left; margin: 10px;">
-        <img src="tianxingchen.jpg" alt="Tianxing Chen" width="150" />
+        <img src="../files/tianxingchen.jpg" alt="Tianxing Chen" width="150" />
         <div><strong>陈天行 Tianxing Chen</strong><div style="font-size: small">(2025届计软->HKU PhD)</div></div>
     </div>
     <div style="display: inline-block; text-align: left; margin: 10px;">
-        <img src="tianxingchen.jpg" alt="Tianxing Chen" width="150" />
+        <img src="../files/tianxingchen.jpg" alt="Tianxing Chen" width="150" />
         <div><strong>关浩林 Haolin Guan</strong><div style="font-size: small">(2026届计软->Karma实习)</div></div>
     </div>
     <!-- 可以添加更多的成员 -->
 </div>
+
+## 联系与支持
+负责人邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a><br>
+负责人微信: **TianxingChen_2002**
