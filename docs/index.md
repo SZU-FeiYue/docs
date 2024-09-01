@@ -61,7 +61,7 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-application.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科）</strong>往年学长学姐<u>留学、保研、考研、就业</u>四个大方向的经验分享网站。
+欢迎！[深圳大学飞跃手册](https://https://szu-application.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科）</strong>往年学长学姐<strong>保研、留学、考研、就业</strong>四个大方向的经验分享网站。
 
 <div class="row">
 
