@@ -105,7 +105,7 @@ hr.narrow {margin: 0 10px}
 
 ## 贡献方式
 点击一下选择对应板块的模版并填写（markdown格式），请右键并下载文件:<br>
-【[保研、留学分享模版](./baoyan/template.md)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【[就业分享模版](./jiuye/template.md)】
+【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_baoyan.txt)】
 
 最后发送到邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a>，或添加微信发送: **TianxingChen_2002**
 
