@@ -21,13 +21,22 @@
 
 **实习:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 上海人工智能实验室(浦江国家实验室), OpenGVLab, 研究实习生<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 国家大数据工程实验室 (深圳大学), 研究实习生<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 香港大学MMLab, 访问学生
+
+
+**个人荣誉:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- CCF优秀大学生 (2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 荔园卓越之星 (2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 荔园之星 (2022, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 鹏程奖学金 (2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 拔尖创新人才奖学金 (2022, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 优秀学生干部一等奖 (2022, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 双创之星一等奖 (2022, 2023)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 学习之星、公益之星、文体之星、拔尖创新人才全额学费奖学金等，累计18项
 
 **项目:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;电商平台前端开发，微信小程序开发大赛华南二等奖
-
-**个人荣誉:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;CCF优秀大学生, 荔园卓越之星等累计18项奖学金
 
 **个人责任:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ACM算法集训队队长, 广东省百千万工程负责人
@@ -84,6 +93,6 @@
 
 
 ## 联系方式
-- 主页: <a href="https://tianxingchen.github.io">https://tianxingchen.github.io</a><br>
-- 邮箱: chentianxing2002@gmail.com<br>
-- 微信: TianxingChen_2002<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 主页: <a href="https://tianxingchen.github.io">https://tianxingchen.github.io</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 邮箱: chentianxing2002@gmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 微信: TianxingChen_2002<br>

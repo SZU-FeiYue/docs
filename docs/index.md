@@ -65,7 +65,7 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-application.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科）</strong>往年学长学姐<strong>保研、留学、考研、就业</strong>四个大方向的经验分享网站。
+欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科）</strong>往年学长学姐<strong>保研、留学、考研、就业</strong>四个大方向的经验分享网站。
 
 <!-- <div class="row">
 
@@ -105,7 +105,7 @@ hr.narrow {margin: 0 10px}
 
 ## 贡献方式
 点击一下选择对应板块的模版并填写（markdown格式），请右键并下载文件:<br>
-【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_baoyan.txt)】
+【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_jiuye.txt)】
 
 最后发送到邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a>，或添加微信发送: **TianxingChen_2002**
 
@@ -118,13 +118,13 @@ hr.narrow {margin: 0 10px}
 我们在本页面和 [QA](main/qa/) 页面底部放置了评论区，可以在其中提出简短的更新或勘误。 -->
 
 
-!!! note "站内导航"
-    -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
-    -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单，前往不同的章节。可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。
-
 ## 声明
 本手册使用 Material for Mkdocs 构建，在 GitHub 上开源，使用 GitHub Pages 公开发布。
 
 手册内容由 [深圳大学飞跃手册编写委员会](./main/contect%26support.md) 收集、编写、审核、发布并维护。内容仅供参考，且不代表任何政治立场。手册所有内容依据[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)授权，不得做商业用途，转载或者引用请注明来源。
 
 对于不遵守此声明或者其他违法使用本文内容者，依法保留追究权等。
+
+!!! note "站内导航"
+    -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
+    -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单，前往不同的章节。可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。

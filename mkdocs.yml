@@ -1,5 +1,5 @@
 site_name: 深圳大学飞跃手册
-repo_url: https://github.com/SZU-Application/SZU-Aplication.github.io
+repo_url: https://github.com/szu-feiyue/docs
 edit_uri: edit/main/docs/
 site_url: https://SZU-Aplication.github.io
 site_author: SZU Feiyue Team
@@ -32,6 +32,7 @@ nav:
       - 目录: liuxue/2025/index.md
     - 2024届: 
       - 目录: liuxue/2024/index.md
+      - 李晓璐 - 高研 - 直博Maryland帕克分校@Stats: liuxue/2024/cases/xiaoluli.md
       - 王睿芃 - 计软 - Upenn master@CS: liuxue/2024/cases/ruipengwang.md
       - 忆如 - 计软 - 爱丁堡大学master@CS: liuxue/2024/cases/wenli.md
   - 考研:
@@ -52,6 +53,9 @@ nav:
       - 刘逸飞 - 腾讯、字节、深信服实习: jiuye/2026/cases/yifeililu.md
     - 2024届: 
       - 目录: jiuye/2024/index.md
+    - 2021届: 
+      - 目录: jiuye/2021/index.md
+      - debug君 - 深信服（已离职）+ 美团: jiuye/2021/cases/zehongluo.md
 theme:
   name: material
   palette:

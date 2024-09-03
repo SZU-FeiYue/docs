@@ -66,11 +66,15 @@ hr.narrow {margin: 0 10px}
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: left; margin: 10px;">
         <img src="../files/tianxingchen.jpg" alt="Tianxing Chen" width="150" />
-        <div><strong>陈天行 Tianxing Chen</strong><div style="font-size: small">(2025届计软->HKU PhD)</div></div>
+        <div><strong>陈天行 Tianxing Chen</strong><div style="font-size: small">(2025届计软 → HKU PhD)</div></div>
     </div>
     <div style="display: inline-block; text-align: left; margin: 10px;">
         <img src="../files/tianxingchen.jpg" alt="Tianxing Chen" width="150" />
-        <div><strong>关浩林 Haolin Guan</strong><div style="font-size: small">(2026届计软->Karma实习)</div></div>
+        <div><strong>关浩林 Haolin Guan</strong><div style="font-size: small">(2026届计软 → Karma实习)</div></div>
+    </div>
+    <div style="display: inline-block; text-align: left; margin: 10px;">
+        <img src="../files/xiaogangpeng.png" alt="Tianxing Chen" width="150" />
+        <div><strong>彭小刚 Xiaogang Peng</strong><div style="font-size: small">(深圳大学副教授)</div></div>
     </div>
     <!-- 可以添加更多的成员 -->
 </div>
