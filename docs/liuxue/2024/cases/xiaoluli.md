@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- 中国国际“互联网+”大学生创新大赛广东省分赛高教主赛道金奖<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 中国国际“互联网+”大学生创新大赛广东省分赛产业赛道金奖<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 广东省大学生数学建模竞赛国家级二等奖<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 中国国际“互联网+”大学生创新大赛校赛金奖<br>
 
 **科研:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 一篇顶级国际会议（一作)<br>
@@ -21,7 +22,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- 阳光华艺助学金（2022年）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 深圳大学荔园卓越之星提名奖（2023年）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 深圳大学荔园之星（2023&2022年）<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 中国国际“互联网+”大学生创新大赛校赛金奖（2023年）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 深圳大学本科拔尖创新人才奖学金一等奖（2023&2022&2021年）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 深圳大学双创之星一等奖（2023年）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 深圳大学学习之星二等奖（2023&2022&2021年）<br>
@@ -61,7 +61,3 @@
 
 ## 联系方式
 &nbsp;&nbsp;&nbsp;&nbsp;- 邮箱: xl020216@umd.edu<br>
-
-## 备注
-关于以上信息填写中存在特殊情况的都可以在此列出。
-

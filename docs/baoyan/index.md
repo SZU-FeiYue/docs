@@ -8,10 +8,13 @@ TODO
 ## 案例贡献
 > 排序按照贡献时间降序
 
-2025届:<br>
-- [陈天行](./2025/cases/tianxingchen.md)<br>
-2024届:<br>
+### 2025届
+- [陈天行 - 计软 - 直博港大MMLab@CS](./2025/cases/tianxingchen.md)<br>
+### 2024届
+- [何志浩 - 电信 - 直博上交@CS](./2024/zhihaohe.md)<br>
 - [谭晓锋 - 计软 - 保研东南PALM@CS](./2024/cases/beiqiwang.md)<br>
 - [汪贝琪 - 计软 - 保研华科@CS](./2024/cases/beiqiwang.md)<br>
 - [陈俊明 - 计软 - 保研电科@CS](./2024/cases/beiqiwang.md)<br>
 - [秦言 - 物光 - 直博港科@ECE](./2024/cases/yanqin.md)<br>
+- [Anthony - 计软 - 港科广Msc dcai@CS](./2024/cases/zihaotang.md)<br>
+- [苏嘉淇 - 计软 - 港大Msc@CS](./2024/cases/jiaqisu.md)
