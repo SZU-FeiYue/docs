@@ -65,7 +65,7 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科）</strong>往年学长学姐<strong>保研、留学、考研、就业</strong>四个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
+欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科、化院）</strong>往年学长学姐<strong>保研、留学、考研、就业、考公</strong>五个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
 
 <!-- <div class="row">
 
@@ -107,7 +107,7 @@ hr.narrow {margin: 0 10px}
 > 化成光照耀后来者
 
 点击一下选择对应板块的模版并填写（markdown格式），请点击下载:<br>
-【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_jiuye.txt)】
+【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】&nbsp;&nbsp;【[考研分享模版(TODO)]()】&nbsp;&nbsp;【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_jiuye.txt) &nbsp;&nbsp;【[考公分享模版(TODO)]()】
 
 最后发送到邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a>，或添加微信发送: **TianxingChen_2002**
 
@@ -127,6 +127,7 @@ hr.narrow {margin: 0 10px}
 | 🛫 留学 | [点击此处跳转](./liuxue/index.md) |
 | ✍️ 考研  | [点击此处跳转](./kaoyan/index.md) |
 | 💼 就业  | [点击此处跳转](./jiuye/index.md) |
+| 🧑🏻‍💻 考公  | [点击此处跳转](./kaogong/index.md) |
 
 !!! note "站内导航"
     -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
