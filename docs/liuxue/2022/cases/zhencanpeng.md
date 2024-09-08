@@ -19,9 +19,6 @@
 **科研:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 5篇HCI相关的paper 其中3篇CCF A， 都是挂名
 
-**实习:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 阿里云数据库实验室, Research Intern, 2024 - 现在
-
 **项目:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 2019 广东省攀登计划 《基于智能手表XXX》的项目负责人<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 2020 广东省大学生创新创业训练计划项目优秀结题
