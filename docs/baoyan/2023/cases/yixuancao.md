@@ -41,7 +41,7 @@
 ## 申请季经历分享、总结
 大三下学期、暑假做Linux内核开源贡献、准备数学建模比赛，无暇申请和参加夏令营。预推免时在参加数学建模比赛，故未参与预推免。
 
-## 联系方式（选填）
+## 联系方式
 - 邮箱：caoyixuan2019@email.szu.edu.cn<br>
 - 博客：[曹无悔-CSDN博客](https://blog.csdn.net/weixin_46655675)<br>
 - ORCID：[0009-0006-6241-4251](https://orcid.org/my-orcid?orcid=0009-0006-6241-4251)<br>
