@@ -10,24 +10,6 @@ nav:
     - index.md
     - 编写委员会: main/committee.md
     - 友链: main/friendlink.md
-  - 留学:
-    - liuxue/index.md
-    - 基础知识: liuxue/basic.md
-    - 2025届: 
-      - 目录: liuxue/2025/index.md
-      - 陈天行 - MMLab-HKU PhD@CS: liuxue/2025/cases/tianxingchen.md
-    - 2024届: 
-      - 目录: liuxue/2024/index.md
-      - 李晓璐 - Maryland PhD@Stats: liuxue/2024/cases/xiaoluli.md
-      - 秦言 - HKUST PhD@ECE: liuxue/2024/cases/yanqin.md
-      - 王睿芃 - Upenn master@CS: liuxue/2024/cases/ruipengwang.md
-      - 忆如 - Edinburgh master@CS: liuxue/2024/cases/wenli.md
-      - 苏嘉淇 - HKU Msc@CS: liuxue/2024/cases/jiaqisu.md
-      - Anthony - HKUSTgz Msc@CS: liuxue/2024/cases/zihaotang.md
-    - 2022届: 
-      - 目录: liuxue/2022/index.md
-      - 彭镇灿 - Rutgers PhD@CS: liuxue/2022/cases/zhencanpeng.md
-      - 詹卓欣 - SFU PhD@CS: liuxue/2022/cases/zhuoxinzhan.md
   - 保研:
     - baoyan/index.md
     - 基础知识: baoyan/basic.md
@@ -46,6 +28,24 @@ nav:
     - 2023届: 
       - 目录: baoyan/2023/index.md
       - 许宏浩 - 深大VCC优青组@CS: baoyan/2023/cases/honghaoxu.md
+  - 留学:
+    - liuxue/index.md
+    - 基础知识: liuxue/basic.md
+    - 2025届: 
+      - 目录: liuxue/2025/index.md
+      - 陈天行 - MMLab-HKU PhD@CS: liuxue/2025/cases/tianxingchen.md
+    - 2024届: 
+      - 目录: liuxue/2024/index.md
+      - 李晓璐 - Maryland PhD@Stats: liuxue/2024/cases/xiaoluli.md
+      - 秦言 - HKUST PhD@ECE: liuxue/2024/cases/yanqin.md
+      - 王睿芃 - Upenn master@CS: liuxue/2024/cases/ruipengwang.md
+      - 忆如 - Edinburgh master@CS: liuxue/2024/cases/wenli.md
+      - 苏嘉淇 - HKU Msc@CS: liuxue/2024/cases/jiaqisu.md
+      - Anthony - HKUSTgz Msc@CS: liuxue/2024/cases/zihaotang.md
+    - 2022届: 
+      - 目录: liuxue/2022/index.md
+      - 彭镇灿 - Rutgers PhD@CS: liuxue/2022/cases/zhencanpeng.md
+      - 詹卓欣 - SFU PhD@CS: liuxue/2022/cases/zhuoxinzhan.md
   - 考研:
     - kaoyan/index.md
     - 基础知识: kaoyan/basic.md
