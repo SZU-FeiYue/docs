@@ -1,4 +1,4 @@
-# 苏嘉淇 - 港大Msc@CS<br>2024届, 计软, 计算机科学与技术（国际班）
+# 苏嘉淇 - HKU Msc@CS<br>2024届, 计软, 计算机科学与技术（国际班）
 
 <img src="../files/jiaqisu.jpg" alt="jiaqi su" style="width: 20%; max-width: 100%; height: auto;">
 
