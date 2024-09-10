@@ -77,9 +77,9 @@ hr.narrow {margin: 0 10px}
         <div><strong>彭小刚 Xiaogang Peng</strong><div style="font-size: small">深圳大学副教授</div></div>
     </div>
 </div> -->
-* 陈天行，2025届计软本科生
-* 关浩林，2026届计软本科生
-* 彭小刚，深圳大学副教授
+* **陈天行**，2025届计软本科生 (创始人)
+* **关浩林**，2026届计软本科生
+* **彭小刚**，深圳大学副教授
 
 ## 联系与支持
 负责人邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a><br>
