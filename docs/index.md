@@ -118,14 +118,14 @@ hr.narrow {margin: 0 10px}
 ## 贡献方式
 > 化成光照耀后来者
 
-点击一下选择对应板块的模版并填写（markdown格式），请点击下载:<br>
+点击一下选择对应板块的模版并填写（txt格式发送即可），请点击下载:<br>
 【保研、留学分享模版: [浏览](./baoyan/template.md), [下载](./baoyan/template_baoyan.txt)】<br>【[考研分享模版(TODO)]()】<br>【就业分享模版: [浏览](./jiuye/template.md), [下载](./jiuye/template_jiuye.txt)】 <br>【[考公分享模版(TODO)]()】
 
 最后发送到邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a>，或添加微信发送: **TianxingChen_2002**
 
 您只需要填写内容即可，手册的维护人员会负责进行排版与发布。
 
-如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.txt` / word `.docx` / `.pdf`）。
+如果您不习惯于使用 Github 或者是不喜欢 `.txt` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.md` / word `.docx` / `.pdf`）。
 
 <!-- ### 页面评论区
 
