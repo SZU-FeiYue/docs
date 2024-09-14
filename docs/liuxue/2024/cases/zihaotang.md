@@ -1,4 +1,4 @@
-# Anthony - HKUSTgz Msc dcai@CS<br>2024届, 计软, 计算机科学与技术（国际班）
+# Anthony - HKUSTgz MSc dcai@CS<br>2024届, 计软, 计算机科学与技术（国际班）
 
 ## 背景
 <strong>GPA: </strong><br>
