@@ -9,7 +9,6 @@
 
 **GPA:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 等级制: 4.17 / 4.5 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 专业排名: 未提供 <br>
 
 **竞赛:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Robocom 机器人全国开发者大赛 三项全国冠军<br>
