@@ -3,11 +3,6 @@
 
 ## 背景
 
-**GPA:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 等级制: 4.00 / 4.5 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 百分制: 88.00 / 100 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 专业排名: 5 / 100 <br>
-
 **竞赛:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 2023广东省大学生程序设计竞赛暨CCPC广东省赛 金牌 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 第47届国际大学生程序设计竞赛ICPC亚洲区域赛南京站 银牌 <br>
