@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- 中国高校计算机大赛 —— 团体程序设计天梯赛全国金奖团队
 
 **科研:**<br>
+产出论文9篇<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ECCV Workshop (Oral) 共一<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICARM三作<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投 * 2<br>
