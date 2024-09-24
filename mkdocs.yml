@@ -26,6 +26,7 @@ nav:
       - 苏嘉淇 - HKU MSc@CS: liuxue/2024/cases/jiaqisu.md
       - Anthony - HKUSTgz MSc@CS: liuxue/2024/cases/zihaotang.md
       - 快乐摸鱼生活 - HKUST MSc@TLE: liuxue/2024/cases/yuanlan.md
+      - 苏政欣 – Duke@EPM: liuxue/2024/cases/zhengxinsu.md
       - 陈同学 - UMacau@DS: liuxue/2024/cases/nuochen.md
     - 2022届: 
       - 目录: liuxue/2022/index.md
@@ -79,8 +80,6 @@ nav:
     - 2021届: 
       - 目录: jiuye/2021/index.md
       - debug君 - 深信服（已离职）+ 美团: jiuye/2021/cases/zehongluo.md
-  - 考公:
-    - kaogong/index.md
 theme:
   name: material
   palette:
