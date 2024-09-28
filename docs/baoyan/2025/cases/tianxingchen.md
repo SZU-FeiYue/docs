@@ -13,7 +13,7 @@
 
 **科研:**<br>
 产出论文9篇<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- ECCV Workshop (Oral) 共一<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- ECCV Workshop (Best Paper) 共一<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICARM三作<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投 * 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICLR共一 + 三作在投<br>
