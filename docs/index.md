@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 深圳大学飞跃手册 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+# 深圳大学飞跃手册 (内测版，请勿传阅) <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 <!-- <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div> -->
