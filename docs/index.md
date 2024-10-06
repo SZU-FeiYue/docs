@@ -2,7 +2,8 @@
 comments: true
 ---
 
-# 深圳大学飞跃手册 (内测版，请勿传阅) <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+# 深圳大学飞跃手册 (内测版，请勿传阅)</a>
+
 <!-- <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-application.github.io&count_bg=%2300EEFF&title_bg=%23F100FF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div> -->
@@ -63,56 +64,50 @@ hr.narrow {margin: 0 10px}
 .container {
   padding: 5px 5px;
 }
+
+.centered-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+  }
+  table {
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+  }
+  th, td {
+    /* padding: 8px; */
+    border: 1px solid #ddd;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:hover {background-color: #ddd;}
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院（计软、电信、机电、高研、物光、数统、金科、化院）</strong>往年学长学姐<strong>留学、保研、考研、就业</strong>4个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
+欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院</strong>往年学长学姐<strong>留学、保研、考研、就业</strong>4个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
 
-<!-- <div class="row">
-
-  <div class="column">
-    <div class="card">
-      <p><strong>保研 (含港澳、中外合办申请)</strong></p>
-      <hr class = "narrow">
-      <p>申请是一项复杂且繁琐的工作，希望本手册能帮助你早作准备、少走弯路。</p>
-      <p><a href="./baoyan"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前往保研板块</a></p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <p><strong>留学</strong></p>
-      <hr class = "narrow">
-      <p><a href="./liuxue"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前往留学板块</a></p>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <p><strong>考研</strong></p>
-      <hr class = "narrow">
-      <p><a href="./kaoyan"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前往考研板块</a></p>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <p><strong>就业</strong></p>
-      <hr class = "narrow">
-      <p><a href="./jiuye"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 前往就业板块</a></p>
-    </div>
-  </div>
-</div> -->
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-feiyue.github.io&count_bg=%23C369D9&title_bg=%23B4315F&icon=googlepodcasts.svg&icon_color=%23D9ED3E&title=Page+Viewers&edge_flat=false"/></a>
 
 ## 目录
 
-| 方向 | 跳转链接 |
-|  ----  | ----  | 
-| 🛫 留学 | [点击此处跳转](./liuxue/index.md) |
-| 📖 保研 | [点击此处跳转](./baoyan/index.md) |
-| ✍️ 考研  | [点击此处跳转](./kaoyan/index.md) |
-| 💼 就业  | [点击此处跳转](./jiuye/index.md) |
-
+<div class="centered-table">
+<table>
+  <tr>
+    <td>🛫 留学</td>
+    <td>📖 保研</td>
+    <td>✍️ 考研</td>
+    <td>💼 就业</td>
+  </tr>
+  <tr>
+    <td><a href="./liuxue/">点击此处跳转</a></td>
+    <td><a href="./baoyan/">点击此处跳转</a></td>
+    <td><a href="./kaoyan/">点击此处跳转</a></td>
+    <td><a href="./jiuye/">点击此处跳转</a></td>
+  </tr>
+</table>
+</div>
 
 ## 贡献方式
 > 化成光照耀后来者
