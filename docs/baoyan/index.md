@@ -9,7 +9,7 @@ TODO
 > 排序按照贡献时间降序
 
 ### 2025届
-- [陈天行 - 计软 - 直博港大MMLab@CS](./2025/cases/tianxingchen.md)<br>
+
 ### 2024届
 - [何志浩 - 电信 - 直博上交@CS](./2024/zhihaohe.md)<br>
 - [谭晓锋 - 计软 - 保研东南PALM@CS](./2024/cases/beiqiwang.md)<br>
