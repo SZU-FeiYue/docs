@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- ICARM三作<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投 * 2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICLR共一 + 三作在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- AAAI二作在投<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- AAAI共一在投<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- NeurIPS三作 + 六作在投
 
 **实习:**<br>
