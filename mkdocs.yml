@@ -12,14 +12,13 @@ nav:
     - 友链: main/friendlink.md
   - 留学:
     - liuxue/index.md
-    - 基础知识: liuxue/basic.md
     - 2025届: 
-      - 目录: liuxue/2025/index.md
+      # - 目录: liuxue/2025/index.md
       - 陈天行 - MMLab-HKU PhD@CS: liuxue/2025/cases/tianxingchen.md
       - 陈铭康 - HKU MSc@CS: liuxue/2025/cases/mingkangchen.md
       - 张硕 - NUS MSc@ECE: liuxue/2025/cases/shuozhang.md
     - 2024届: 
-      - 目录: liuxue/2024/index.md
+      # - 目录: liuxue/2024/index.md
       - 李晓璐 - Maryland PhD@Stats: liuxue/2024/cases/xiaoluli.md
       - 秦言 - HKUST PhD@ECE: liuxue/2024/cases/yanqin.md
       - 王睿芃 - Upenn MS@CS: liuxue/2024/cases/ruipengwang.md
@@ -30,14 +29,13 @@ nav:
       - 苏政欣 – Duke@MEM: liuxue/2024/cases/zhengxinsu.md
       - 陈同学 - UMacau@DS: liuxue/2024/cases/nuochen.md
     - 2022届: 
-      - 目录: liuxue/2022/index.md
+      # - 目录: liuxue/2022/index.md
       - 彭镇灿 - Rutgers PhD@CS: liuxue/2022/cases/zhencanpeng.md
       - 詹卓欣 - SFU PhD@CS: liuxue/2022/cases/zhuoxinzhan.md
   - 保研:
     - baoyan/index.md
-    - 基础知识: baoyan/basic.md
     - 2025届: 
-      - 目录: baoyan/2025/index.md
+      # - 目录: baoyan/2025/index.md
       - 朱宇飞 - 上科大@CS: baoyan/2025/cases/yufeizhu.md
       - 钟昊天 - 浙大PhD@CS: baoyan/2025/cases/haotianzhong.md
       - 陈潇泳 - 北理工@CS: baoyan/2025/cases/xiaoyongchen.md
@@ -51,7 +49,7 @@ nav:
       - 陈婉纯 - 华南理工PhD@CS: baoyan/2025/cases/wanchunchen.md
       - 王淇 - 南科大@Math: baoyan/2025/cases/qiwang.md
     - 2024届: 
-      - 目录: baoyan/2024/index.md
+      # - 目录: baoyan/2024/index.md
       - 苏梓瀚 - 清华深圳@CS: baoyan/2024/cases/zihansu.md
       - 梁霈柔 - 中科大@CS: baoyan/2024/cases/peirouliang.md
       - 汪贝琪 - 华科@CS: baoyan/2024/cases/beiqiwang.md
@@ -62,36 +60,34 @@ nav:
       - 刘涛 - 南开媒体计算实验室@CS: baoyan/2024/cases/taoliu.md
       - 郭奕彤 - 清华深圳@药学: baoyan/2024/cases/yitongguo.md
     - 2023届: 
-      - 目录: baoyan/2023/index.md
+      # - 目录: baoyan/2023/index.md
       - 许宏浩 - 深大VCC优青组@CS: baoyan/2023/cases/honghaoxu.md
       - 曹弈轩 - 深大@CS: baoyan/2023/cases/yixuancao.md
       - ywh - 厦大MAC实验室@CS: baoyan/2023/cases/weihaoye.md
   - 考研:
     - kaoyan/index.md
-    - 基础知识: kaoyan/basic.md
-    - 2025届: 
-      - 目录: kaoyan/2025/index.md
+    # - 2025届: 
+    #   - 目录: kaoyan/2025/index.md
     - 2024届: 
       - 目录: kaoyan/2024/index.md
       - 颜治强 - 哈工深@CS: kaoyan/2024/cases/zhiqiangyan.md
   - 就业:
     - jiuye/index.md
-    - 基础知识: jiuye/basic.md
     - 2026届: 
-      - 目录: jiuye/2026/index.md
+      # - 目录: jiuye/2026/index.md
       - 关浩林 - Kasma实习: jiuye/2026/cases/haolinguan.md
     - 2025届: 
-      - 目录: jiuye/2025/index.md
+      # - 目录: jiuye/2025/index.md
       - 李伟力 - 量化交易: jiuye/2025/cases/weilili.md
       - 陈梓淳 - 腾讯实习转正: jiuye/2025/cases/zichunchen.md
       - 李佳乐 - 腾讯实习转正: jiuye/2025/cases/jialeli.md
       - 闪闪 - 腾讯实习: jiuye/2025/cases/yaqinshan.md
       - 叶可禾 - 腾讯实习: jiuye/2025/cases/keheye.md
       - 刘逸飞 - 腾讯、字节、深信服实习: jiuye/2025/cases/yifeililu.md
-    - 2024届: 
-      - 目录: jiuye/2024/index.md
+    # - 2024届: 
+      # - 目录: jiuye/2024/index.md
     - 2021届: 
-      - 目录: jiuye/2021/index.md
+      # - 目录: jiuye/2021/index.md
       - debug君 - 深信服（已离职）+ 美团: jiuye/2021/cases/zehongluo.md
 theme:
   name: material
