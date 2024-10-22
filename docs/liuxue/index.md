@@ -18,7 +18,6 @@
 - [苏政欣 – Duke@MEM](./2024/cases/zhengxinsu.md)
 - [陈同学 - UMacau@DS](./2024/cases/nuochen.md)
 
-
 ## 2022届: 
 - [彭镇灿 - Rutgers PhD@CS](./2022/cases/zhencanpeng.md)
 - [詹卓欣 - SFU PhD@CS](./2022/cases/zhuoxinzhan.md)
