@@ -86,7 +86,7 @@ hr.narrow {margin: 0 10px}
   tr:hover {background-color: #ddd;}
 </style>
 
-欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学<strong>理工科学院</strong>往年学长学姐<strong>留学、保研、考研、就业</strong>4个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
+欢迎！[深圳大学飞跃手册](https://https://szu-feiyue.github.io/) 是一份汇聚深圳大学往年学长学姐<strong>留学、保研、考研、就业</strong>4个大方向的案例向经验分享网站。由 [深圳大学飞跃手册编写委员会](./main/committee.md) 提供平台支持。
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-feiyue.github.io&count_bg=%23C369D9&title_bg=%23B4315F&icon=googlepodcasts.svg&icon_color=%23D9ED3E&title=Page+Viewers&edge_flat=false"/></a>
 
