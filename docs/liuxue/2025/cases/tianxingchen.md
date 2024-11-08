@@ -23,6 +23,7 @@
 
 **实习:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 上海人工智能实验室 (浦江国家实验室), OpenGVLab, 研究实习生<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 中国电信人工智能研究院, 研究实习生<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 国家大数据工程实验室 (深圳大学), 研究实习生<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 香港大学MMLab, 访问学生
 
