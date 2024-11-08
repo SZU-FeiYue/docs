@@ -15,10 +15,11 @@
 产出论文9篇<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ECCV Workshop (Best Paper) 共一<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICARM三作<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投 * 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- CVPR一作+共一+四作在投<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- ICRA共一在投<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- ICLR共一 + 三作在投<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- AAAI共一在投<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- NeurIPS三作 + 六作在投
+&nbsp;&nbsp;&nbsp;&nbsp;- NeurIPS三作 + 六作在投<br>
 
 **实习:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 上海人工智能实验室 (浦江国家实验室), OpenGVLab, 研究实习生<br>
