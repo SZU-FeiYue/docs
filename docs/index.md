@@ -127,4 +127,4 @@ hr.narrow {margin: 0 10px}
     -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
     -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单，前往不同的章节。可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。
   
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-feiyue.github.io&count_bg=%23C369D9&title_bg=%23B4315F&icon=googlepodcasts.svg&icon_color=%23D9ED3E&title=Page+Viewers&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fszu-feiyue.github.io&count_bg=%23C369D9&title_bg=%23B4315F&icon=googlepodcasts.svg&icon_color=%23D9ED3E&title=Page+Viewers&edge_flat=false"/></a> -->
