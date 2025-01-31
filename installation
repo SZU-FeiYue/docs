@@ -1,2 +1,0 @@
-# deploy to github page
-mkdocs gh-deploy --config-file ./mkdocs.yml --remote-branch main
