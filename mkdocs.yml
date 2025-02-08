@@ -12,84 +12,161 @@ nav:
     - 友链: main/friendlink.md
   - 留学:
     - liuxue/index.md
-    - 2025届: 
+    - 信息与技术工程类: 
       # - 目录: liuxue/2025/index.md
-      - 陈天行 - MMLab-HKU PhD@CS: liuxue/2025/cases/tianxingchen.md
-      - 陈铭康 - HKU MSc@CS: liuxue/2025/cases/mingkangchen.md
-      - 张硕 - NUS MSc@ECE: liuxue/2025/cases/shuozhang.md
-    - 2024届: 
-      # - 目录: liuxue/2024/index.md
-      - 李晓璐 - Maryland PhD@Stats: liuxue/2024/cases/xiaoluli.md
-      - 秦言 - HKUST PhD@ECE: liuxue/2024/cases/yanqin.md
-      - 王睿芃 - Upenn MS@CS: liuxue/2024/cases/ruipengwang.md
-      - 忆如 - Edinburgh MS@CS: liuxue/2024/cases/wenli.md
-      - 苏嘉淇 - HKU MSc@CS: liuxue/2024/cases/jiaqisu.md
-      - Anthony - HKUSTgz MSc@CS: liuxue/2024/cases/zihaotang.md
-      - 快乐摸鱼生活 - HKUST MSc@TLE: liuxue/2024/cases/yuanlan.md
-      - 苏政欣 – Duke@MEM: liuxue/2024/cases/zhengxinsu.md
-      - 陈同学 - UMacau@DS: liuxue/2024/cases/nuochen.md
-    - 2022届: 
-      # - 目录: liuxue/2022/index.md
-      - 彭镇灿 - Rutgers PhD@CS: liuxue/2022/cases/zhencanpeng.md
-      - 詹卓欣 - SFU PhD@CS: liuxue/2022/cases/zhuoxinzhan.md
+      - 计算机与软件学院:
+        - 目录: liuxue/jiruan/index.md
+        - MMLab-HKU PhD@CS（25届）: liuxue/jiruan/2025/cases/tianxingchen.md
+        - 计软 陈铭康 - HKU MSc@CS（25届）: liuxue/jiruan/2025/cases/mingkangchen.md
+        - 计软 张硕 - NUS MSc@ECE（25届）: liuxue/jiruan/2025/cases/shuozhang.md
+        - 计软 李晓璐 - Maryland PhD@Stats（24届）: liuxue/jiruan/2024/cases/xiaoluli.md
+        - 计软 秦言 - HKUST PhD@ECE（24届）: liuxue/jiruan/2024/cases/yanqin.md
+        - 计软 王睿芃 - Upenn MS@CS（24届）: liuxue/jiruan/2024/cases/ruipengwang.md
+        - 计软 忆如 - Edinburgh MS@CS（24届）: liuxue/jiruan/2024/cases/wenli.md
+        - 计软 苏嘉淇 - HKU MSc@CS（24届）: liuxue/jiruan/2024/cases/jiaqisu.md
+        - 计软 Anthony - HKUSTgz MSc@CS（24届）: liuxue/jiruan/2024/cases/zihaotang.md
+        - 计软 快乐摸鱼生活 - HKUST MSc@TLE（24届）: liuxue/jiruan/2024/cases/yuanlan.md
+        - 计软 苏政欣 – Duke@MEM（24届）: liuxue/jiruan/2024/cases/zhengxinsu.md
+        - 计软 陈同学 - UMacau@DS（24届）: liuxue/jiruan/2024/cases/nuochen.md
+        - 计软 彭镇灿 - Rutgers PhD@CS（22届）: liuxue/jiruan/2022/cases/zhencanpeng.md
+        - 计软 詹卓欣 - SFU PhD@CS（22届）: liuxue/jiruan/2022/cases/zhuoxinzhan.md
+      - 电子与信息工程学院:
+        - 目录: liuxue/dianxin/index.md
+      - 机电与控制学院:
+        - 目录: liuxue/jidian/index.md
+    - 教育与心理发展类（教育+心理+体育）: 
+      - 目录: liuxue/2022/index.md # 这些都是占位的，到时候记得删掉替换，不然会报错
+    - 人文与语言传播类（文院+外院+传院）: 
+      - 目录: liuxue/2022/index.md
+    - 政法与社会治理类（法院+马院+政管）: 
+      - 目录: liuxue/2022/index.md
+    - 艺术与国际交流类（艺院+国际交流+东京）:
+      - 目录: liuxue/2022/index.md
+    - 建筑与城市规划类（土木+城规）:
+      - 目录: liuxue/2022/index.md
+    - 管理与经济类（管院+经院+金科）: 
+      - 管理学院:
+        - 目录: liuxue/guanli/index.md
+      - 经济学院:
+        - 目录: liuxue/jingji/index.md
+        - 经济 徐子晴 - NUS MSc@VC（23届）: liuxue/jingji/2023/cases/ziqingxu.md
+      - 金融科技学院:
+        - 目录: liuxue/jinke/index.md
+    - 基础理学科类（数院+物光+化院+生科+高研院）: 
+      - 目录: liuxue/2022/index.md
+    - 医学与材料类（医学+材料）:
+      - 目录: liuxue/2022/index.md
   - 保研:
     - baoyan/index.md
-    - 2025届: 
+    - 信息与技术工程类（计软+电信+机电）: 
       # - 目录: baoyan/2025/index.md
-      - 朱宇飞 - 上科大@CS: baoyan/2025/cases/yufeizhu.md
-      - 钟昊天 - 浙大PhD@CS: baoyan/2025/cases/haotianzhong.md
-      - 陈潇泳 - 北理工@CS: baoyan/2025/cases/xiaoyongchen.md
-      - 李深艺 – 北大PhD@Matl: baoyan/2025/cases/shenyili.md
-      - 蒋畅之 - 中科院PhD@Astro: baoyan/2025/cases/changzhijiang.md
-      - Mia - 东南@CS: baoyan/2025/cases/zhentingliao.md
-      - 李林一 - 南开程明明组PhD@CS: baoyan/2025/cases/linyili.md
-      - 宋宗硕 - 成电@CS: baoyan/2025/cases/zhongshuosong.md
-      - 张豪杰 - 深大PhD@CS: baoyan/2025/cases/haojiezhang.md
-      - 陈镇熙 - 中大@CS: baoyan/2025/cases/zhenxichen.md
-      - 陈家豪 - 北大深圳@IC: baoyan/2025/cases/jiahaochen.md
-      - 陈婉纯 - 华南理工PhD@CS: baoyan/2025/cases/wanchunchen.md
-      - 王淇 - 南科大@Math: baoyan/2025/cases/qiwang.md
-    - 2024届: 
-      # - 目录: baoyan/2024/index.md
-      - 苏梓瀚 - 清华深圳@CS: baoyan/2024/cases/zihansu.md
-      - 梁霈柔 - 中科大@CS: baoyan/2024/cases/peirouliang.md
-      - 汪贝琪 - 华科@CS: baoyan/2024/cases/beiqiwang.md
-      - 陈耿 - 北邮@CS: baoyan/2024/cases/gengchen.md
-      - 洪钊彦 - 人大信院PhD@CS: baoyan/2024/cases/zhaoyanhong.md
-      - 陈俊明 - 电科@CS: baoyan/2024/cases/junmingchen.md
-      - 何志浩 - 上交PhD@CS: baoyan/2024/cases/zhihaohe.md
-      - 刘涛 - 南开媒体计算实验室@CS: baoyan/2024/cases/taoliu.md
-      - 郭奕彤 - 清华深圳@药学: baoyan/2024/cases/yitongguo.md
-    - 2023届: 
-      # - 目录: baoyan/2023/index.md
-      - 许宏浩 - 深大VCC优青组@CS: baoyan/2023/cases/honghaoxu.md
-      - 曹弈轩 - 深大@CS: baoyan/2023/cases/yixuancao.md
-      - ywh - 厦大MAC实验室@CS: baoyan/2023/cases/weihaoye.md
+      - 计算机与软件学院:
+        - 目录: baoyan/jiruan/index.md
+        - 计软 朱宇飞 - 上科大@CS（25届）: baoyan/jiruan/2025/cases/yufeizhu.md
+        - 计软 钟昊天 - 浙大PhD@CS（25届）: baoyan/jiruan/2025/cases/haotianzhong.md
+        - 计软 陈潇泳 - 北理工@CS（25届）: baoyan/jiruan/2025/cases/xiaoyongchen.md
+        - 计软 李深艺 - 北大PhD@Matl（25届）: baoyan/jiruan/2025/cases/shenyili.md
+        - 计软 蒋畅之 - 中科院PhD@Astro（25届）: baoyan/jiruan/2025/cases/changzhijiang.md
+        - 计软 Mia - 东南@CS（25届）: baoyan/jiruan/2025/cases/zhentingliao.md
+        - 计软 李林一 - 南开程明明组PhD@CS（25届）: baoyan/jiruan/2025/cases/linyili.md
+        - 计软 宋宗硕 - 成电@CS（25届）: baoyan/jiruan/2025/cases/zhongshuosong.md
+        - 计软 张豪杰 - 深大PhD@CS（25届）: baoyan/jiruan/2025/cases/haojiezhang.md
+        - 计软 陈镇熙 - 中大@CS（25届）: baoyan/jiruan/2025/cases/zhenxichen.md
+        - 计软 陈家豪 - 北大深圳@IC（25届）: baoyan/jiruan/2025/cases/jiahaochen.md
+        - 计软 陈婉纯 - 华南理工PhD@CS（25届）: baoyan/jiruan/2025/cases/wanchunchen.md
+        - 计软 王淇 - 南科大@Math（25届）: baoyan/jiruan/2025/cases/qiwang.md
+        - 计软 苏梓瀚 - 清华深圳@CS（24届）: baoyan/jiruan/2024/cases/zihansu.md
+        - 计软 梁霈柔 - 中科大@CS（24届）: baoyan/jiruan/2024/cases/peirouliang.md
+        - 计软 汪贝琪 - 华科@CS（24届）: baoyan/jiruan/2024/cases/beiqiwang.md
+        - 计软 陈耿 - 北邮@CS（24届）: baoyan/jiruan/2024/cases/gengchen.md
+        - 计软 洪钊彦 - 人大信院PhD@CS（24届）: baoyan/jiruan/2024/cases/zhaoyanhong.md
+        - 计软 陈俊明 - 电科@CS（24届）: baoyan/jiruan/2024/cases/junmingchen.md
+        - 计软 何志浩 - 上交PhD@CS（24届）: baoyan/jiruan/2024/cases/zhihaohe.md
+        - 计软 刘涛 - 南开媒体计算实验室@CS（24届）: baoyan/jiruan/2024/cases/taoliu.md
+        - 计软 郭奕彤 - 清华深圳@药学（24届）: baoyan/jiruan/2024/cases/yitongguo.md
+        - 计软 许宏浩 - 深大VCC优青组@CS（23届）: baoyan/jiruan/2023/cases/honghaoxu.md
+        - 计软 曹弈轩 - 深大@CS（23届）: baoyan/jiruan/2023/cases/yixuancao.md
+        - 计软 ywh - 厦大MAC实验室@CS（23届）: baoyan/jiruan/2023/cases/weihaoye.md
+      - 电子与信息工程学院:
+        - 目录: baoyan/jidian/index.md
+      - 机电与控制学院:
+        - 目录: baoyan/dianxin/index.md
+    - 教育与心理发展类（教育+心理+体育）: 
+      - 目录: liuxue/2022/index.md
+    - 人文与语言传播类（文院+外院+传院）: 
+      - 目录: liuxue/2022/index.md
+    - 政法与社会治理类（法院+马院+政管）: 
+      - 目录: liuxue/2022/index.md
+    - 艺术与国际交流类（艺院+国际交流+东京）:
+      - 目录: liuxue/2022/index.md
+    - 建筑与城市规划类（土木+城规）:
+      - 目录: liuxue/2022/index.md
+    - 管理与经济类（管院+经院+金科）: 
+      - 目录: liuxue/2022/index.md
+    - 基础理学科类（数院+物光+化院+生科+高研院）: 
+      - 目录: liuxue/2022/index.md
+    - 医学与材料类（医学+材料）:
+      - 目录: liuxue/2022/index.md
   - 考研:
     - kaoyan/index.md
-    # - 2025届: 
-    #   - 目录: kaoyan/2025/index.md
-    - 2024届: 
-      - 目录: kaoyan/2024/index.md
-      - 颜治强 - 哈工深@CS: kaoyan/2024/cases/zhiqiangyan.md
+    - 信息与技术工程类（计软+电信+机电）: 
+      - 计算机与软件学院:
+        - 目录: kaoyan/jiruan/index.md
+        - 计软 颜治强 - 哈工深@CS（24届）: kaoyan/jiruan/2024/cases/zhiqiangyan.md
+      - 电子与信息工程学院:
+        - 目录: kaoyan/dianxin/index.md
+      - 机电与控制学院:
+        - 目录: kaoyan/jidian/index.md
+    - 教育与心理发展类（教育+心理+体育）: 
+      - 目录: liuxue/2022/index.md
+    - 人文与语言传播类（文院+外院+传院）: 
+      - 目录: liuxue/2022/index.md
+    - 政法与社会治理类（法院+马院+政管）: 
+      - 目录: liuxue/2022/index.md
+    - 艺术与国际交流类（艺院+国际交流+东京）:
+      - 目录: liuxue/2022/index.md
+    - 建筑与城市规划类（土木+城规）:
+      - 目录: liuxue/2022/index.md
+    - 管理与经济类（管院+经院+金科）: 
+      - 目录: liuxue/2022/index.md
+    - 基础理学科类（数院+物光+化院+生科+高研院）: 
+      - 目录: liuxue/2022/index.md
+    - 医学与材料类（医学+材料）:
+      - 目录: liuxue/2022/index.md
   - 就业:
     - jiuye/index.md
-    - 2026届: 
+    - 信息与技术工程类（计软+电信+机电）: 
       # - 目录: jiuye/2026/index.md
-      - 关浩林 - Kasma实习: jiuye/2026/cases/haolinguan.md
-    - 2025届: 
-      # - 目录: jiuye/2025/index.md
-      - 李伟力 - 量化交易: jiuye/2025/cases/weilili.md
-      - 陈梓淳 - 腾讯实习转正: jiuye/2025/cases/zichunchen.md
-      - 李佳乐 - 腾讯实习转正: jiuye/2025/cases/jialeli.md
-      - 闪闪 - 腾讯实习: jiuye/2025/cases/yaqinshan.md
-      - 叶可禾 - 腾讯实习: jiuye/2025/cases/keheye.md
-      - 刘逸飞 - 腾讯、字节、深信服实习: jiuye/2025/cases/yifeililu.md
-    # - 2024届: 
-      # - 目录: jiuye/2024/index.md
-    - 2021届: 
-      # - 目录: jiuye/2021/index.md
-      - debug君 - 深信服（已离职）+ 美团: jiuye/2021/cases/zehongluo.md
+      - 计算机与软件学院: 
+        - 目录: jiuye/jiruan/index.md
+        - 计软 关浩林 - Kasma实习（26届）: jiuye/jiruan/2026/cases/haolinguan.md
+        - 计软 李伟力 - 量化交易（25届）: jiuye/jiruan/2025/cases/weilili.md
+        - 计软 陈梓淳 - 腾讯实习转正（25届）: jiuye/jiruan/2025/cases/zichunchen.md
+        - 计软 李佳乐 - 腾讯实习转正（25届）: jiuye/jiruan/2025/cases/jialeli.md
+        - 计软 闪闪 - 腾讯实习（25届）: jiuye/jiruan/2025/cases/yaqinshan.md
+        - 计软 叶可禾 - 腾讯实习（25届）: jiuye/jiruan/2025/cases/keheye.md
+        - 计软 刘逸飞 - 腾讯、字节、深信服实习（25届）: jiuye/jiruan/2025/cases/yifeililu.md
+        - 计软 debug君 - 深信服（已离职）+ 美团（21届）: jiuye/jiruan/2021/cases/zehongluo.md
+      - 电子与信息工程学院:
+        - 目录: jiuye/dianxin/index.md
+      - 机电与控制学院:
+        - 目录: jiuye/jidian/index.md
+    - 教育与心理发展类（教育+心理+体育）: 
+      - 目录: liuxue/2022/index.md
+    - 人文与语言传播类（文院+外院+传院）: 
+      - 目录: liuxue/2022/index.md
+    - 政法与社会治理类（法院+马院+政管）: 
+      - 目录: liuxue/2022/index.md
+    - 艺术与国际交流类（艺院+国际交流+东京）:
+      - 目录: liuxue/2022/index.md
+    - 建筑与城市规划类（土木+城规）:
+      - 目录: liuxue/2022/index.md
+    - 管理与经济类（管院+经院+金科）: 
+      - 目录: liuxue/2022/index.md
+    - 基础理学科类（数院+物光+化院+生科+高研院）: 
+      - 目录: liuxue/2022/index.md
+    - 医学与材料类（医学+材料）:
+      - 目录: liuxue/2022/index.md
 theme:
   name: material
   palette:

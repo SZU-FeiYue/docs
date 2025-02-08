@@ -2,22 +2,26 @@
 
 > 使用电脑端食用更佳
 
-## 2025届
-- [陈天行 - MMLab-HKU PhD@CS](./2025/cases/tianxingchen.md)
-- [陈铭康 - HKU MSc@CS](./2025/cases/mingkangchen.md)
-- [张硕 - NUS MSc@ECE](./2025/cases/shuozhang.md)
+## 信息与技术工程类（计软+电信+机电）
+- [计算机与软件学院](./jiruan/index.md)
+- [电子与信息工程学院](./jiruan/index.md)
+- [机电与控制学院](./jiruan/index.md)
 
-## 2024届
-- [李晓璐 - Maryland PhD@Stats](./2024/cases/xiaoluli.md)
-- [秦言 - HKUST PhD@ECE](./2024/cases/yanqin.md)
-- [王睿芃 - Upenn MS@CS](./2024/cases/ruipengwang.md)
-- [忆如 - Edinburgh MS@CS](./2024/cases/wenli.md)
-- [苏嘉淇 - HKU MSc@CS](./2024/cases/jiaqisu.md)
-- [Anthony - HKUSTgz MSc@CS](./2024/cases/zihaotang.md)
-- [快乐摸鱼生活 - HKUST MSc@TLE](./2024/cases/yuanlan.md)
-- [苏政欣 – Duke@MEM](./2024/cases/zhengxinsu.md)
-- [陈同学 - UMacau@DS](./2024/cases/nuochen.md)
+## 教育与心理发展类（教育+心理+体育）: 
 
-## 2022届: 
-- [彭镇灿 - Rutgers PhD@CS](./2022/cases/zhencanpeng.md)
-- [詹卓欣 - SFU PhD@CS](./2022/cases/zhuoxinzhan.md)
+## 人文与语言传播类（文院+外院+传院）: 
+
+## 政法与社会治理类（法院+马院+政管）: 
+
+## 艺术与国际交流类（艺院+国际交流+东京）:
+
+## 建筑与城市规划类（土木+城规）:
+
+## 管理与经济类（管院+经院+金科）: 
+- [管理学院](./guanli/index.md)
+- [经济学院](./jingji/index.md)
+- [金融科技学院](./jinke/index.md)
+
+## 基础理学科类（数院+物光+化院+生科+高研院）: 
+
+## 医学与材料类（医学+材料）:
