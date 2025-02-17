@@ -3,9 +3,9 @@
 > 使用电脑端食用更佳
 
 ## 信息与技术工程类（计软+电信+机电）
-- [计算机与软件学院](./jiruan/index.md)
-- [电子与信息工程学院](./dianxin/index.md)
-- [机电与控制学院](./jidian/index.md)
+- [计算机与软件学院](./CompSci/index.md)
+- [电子与信息工程学院](./InfoTech/index.md)
+- [机电与控制学院](./Mechatronic/index.md)
 
 ## 教育与心理发展类（教育+心理+体育）: 
 
