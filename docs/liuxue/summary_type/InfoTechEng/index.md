@@ -19,6 +19,9 @@
 - [陈同学 - UMacau@DS](../../CompSci/2024/cases/nuochen.md)
 - [赵子睿 - Rice MCS@CS](../../CompSci/2024/cases/ziruizhao.md)
 
+## 2023届
+- [王楷盛 - NTU@C&A](../../CompSci/2023/cases/kaishengwang.md)
+
 ## 2022届: 
 - [彭镇灿 - Rutgers PhD@CS](../../CompSci/2022/cases/zhencanpeng.md)
 - [詹卓欣 - SFU PhD@CS](../../CompSci/2022/cases/zhuoxinzhan.md)
