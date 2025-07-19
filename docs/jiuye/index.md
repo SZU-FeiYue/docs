@@ -2,23 +2,17 @@
 
 > 使用电脑端食用更佳
 
-## 信息与技术工程类（计软+电信+机电）
-- [计算机与软件学院](./CompSci/index.md)
-- [电子与信息工程学院](./InfoTech/index.md)
-- [机电与控制学院](./Mechatronic/index.md)
+## 2026届
+- [关浩林 - Kasma实习](./CompSci/2026/cases/haolinguan.md)
 
-## 教育与心理发展类（教育+心理+体育）: 
+## 2025届
+- [李伟力 - 量化交易](./CompSci/2025/cases/weilili.md)
+- [陈梓淳 - 腾讯实习转正](./CompSci/2025/cases/zichunchen.md)
+- [李佳乐 - 腾讯实习转正](./CompSci/2025/cases/jialeli.md)
+- [闪闪 - 腾讯实习](./CompSci/2025/cases/yaqinshan.md)
+- [叶可禾 - 腾讯实习](./CompSci/2025/cases/keheye.md)
+- [刘逸飞 - 腾讯、字节、深信服实习](./CompSci/2025/cases/yifeiliu.md)
+- [正汰 - 字节](./InfoTech/2025/cases/taizheng.md)
 
-## 人文与语言传播类（文院+外院+传院）: 
-
-## 政法与社会治理类（法院+马院+政管）: 
-
-## 艺术与国际交流类（艺院+国际交流+东京）:
-
-## 建筑与城市规划类（土木+城规）:
-
-## 管理与经济类（管院+经院+金科）: 
-
-## 基础理学科类（数院+物光+化院+生科+高研院）: 
-
-## 医学与材料类（医学+材料）:
+## 2021届
+- [debug君 - 深信服（已离职）+ 美团](./CompSci/2021/cases/zehongluo.md)

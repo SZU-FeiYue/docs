@@ -2,24 +2,33 @@
 
 > 使用电脑端食用更佳
 
-## 信息与技术工程类（计软+电信+机电）
-- [计算机与软件学院](./CompSci/index.md)
-- [电子与信息工程学院](./InfoTech/index.md)
-- [机电与控制学院](./Mechatronic/index.md)
+## 2025届
+- [计软 朱宇飞 - 上科大@CS](./CompSci/2025/cases/yufeizhu.md)
+- [计软 钟昊天 - 浙大PhD@CS](./CompSci/2025/cases/haotianzhong.md)
+- [计软 陈潇泳 - 北理工@CS](./CompSci/2025/cases/xiaoyongchen.md)
+- [计软 李深艺 – 北大PhD@Matl](./CompSci/2025/cases/shenyili.md)
+- [计软 Mia - 东南@CS](./CompSci/2025/cases/zhentingliao.md)
+- [计软 李林一 - 南开程明明组PhD@CS](./CompSci/2025/cases/linyili.md)
+- [计软 宋宗硕 - 成电@CS](./CompSci/2025/cases/zhongshuosong.md)
+- [计软 张豪杰 - 深大PhD@CS](./CompSci/2025/cases/haojiezhang.md)
+- [计软 陈镇熙 - 中大@CS](./CompSci/2025/cases/zhenxichen.md)
+- [计软 陈家豪 - 北大深圳@IC](./CompSci/2025/cases/jiahaochen.md)
+- [计软 陈婉纯 - 华南理工PhD@CS](./CompSci/2025/cases/wanchunchen.md)
+- [计软 王淇 - 南科大@Math](./CompSci/2025/cases/qiwang.md)
+- [吴骏 - 中科院@细胞生物学](./GradStudies/2025/cases/junwu.md)
 
-## 教育与心理发展类（教育+心理+体育）: 
+## 2024届
+- [计软 苏梓瀚 - 清华深圳@CS](./CompSci/2024/cases/zihansu.md)
+- [计软 梁霈柔 - 中科大@CS](./CompSci/2024/cases/peirouliang.md)
+- [计软 汪贝琪 - 华科@CS](./CompSci/2024/cases/beiqiwang.md)
+- [计软 陈耿 - 北邮@CS](./CompSci/2024/cases/gengchen.md)
+- [计软 洪钊彦 - 人大信院PhD@CS](./CompSci/2024/cases/zhaoyanhong.md)
+- [计软 陈俊明 - 电科@CS](./CompSci/2024/cases/junmingchen.md)
+- [计软 何志浩 - 上交PhD@CS](./CompSci/2024/cases/zhihaohe.md)
+- [计软 刘涛 - 南开媒体计算实验室@CS](./CompSci/2024/cases/taoliu.md)
+- [计软 郭奕彤 - 清华深圳@药学](./CompSci/2024/cases/yitongguo.md)
 
-## 人文与语言传播类（文院+外院+传院）: 
-
-## 政法与社会治理类（法院+马院+政管）: 
-
-## 艺术与国际交流类（艺院+国际交流+东京）:
-
-## 建筑与城市规划类（土木+城规）:
-
-## 管理与经济类（管院+经院+金科）: 
-
-## 基础理学科类（数院+物光+化院+生科+高研院）: 
-- [高等研究院](./GradStudies/index.md)
-
-## 医学与材料类（医学+材料）:
+## 2023届
+- [计软 许宏浩 - 深大VCC优青组@CS](./CompSci/2023/cases/honghaoxu.md)
+- [计软 曹弈轩 - 深大@CS](./CompSci/2023/cases/yixuancao.md)
+- [计软 ywh - 厦大MAC实验室@CS](./CompSci/2023/cases/weihaoye.md)
