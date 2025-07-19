@@ -80,6 +80,7 @@ hr.narrow {margin: 0 10px}
 * **陈天行**，2025届计软本科生 (创始人)
 * **关浩林**，2026届计软本科生
 * **彭小刚**，深圳大学副教授
+* **何子祺**，2026届计软本科生
 
 ## 联系与支持
 负责人邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a><br>
