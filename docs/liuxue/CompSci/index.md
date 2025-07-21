@@ -1,8 +1,8 @@
-# 计算机与软件学院留学板块
+# coming soon
 
 > 使用电脑端食用更佳
 
-## 2025届
+<!-- ## 2025届
 - [陈天行 - MMLab-HKU PhD@CS](./2025/cases/tianxingchen.md)
 - [陈铭康 - HKU MSc@CS](./2025/cases/mingkangchen.md)
 - [张硕 - NUS MSc@ECE](./2025/cases/shuozhang.md)
@@ -24,4 +24,4 @@
 
 ## 2022届: 
 - [彭镇灿 - Rutgers PhD@CS](./2022/cases/zhencanpeng.md)
-- [詹卓欣 - SFU PhD@CS](./2022/cases/zhuoxinzhan.md)
+- [詹卓欣 - SFU PhD@CS](./2022/cases/zhuoxinzhan.md) -->
