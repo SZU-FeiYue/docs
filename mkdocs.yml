@@ -12,84 +12,74 @@ nav:
     - 友链: main/friendlink.md
   - 留学:
     - liuxue/index.md
-    - 信息与技术工程类:
-      - 目录: liuxue/summary_type/InfoTechEng/index.md
-    - 教育与心理发展类（教育+心理+体育）: 
-      - 目录: liuxue/CompSci/index.md # 这些都是占位的，到时候记得删掉替换，不然会报错
-    - 人文与语言传播类（文院+外院+传院）: 
-      - 目录: liuxue/CompSci/index.md
-    - 政法与社会治理类（法院+马院+政管）: 
-      - 目录: liuxue/CompSci/index.md
-    - 艺术与国际交流类（艺院+国际交流+东京）:
-      - 目录: liuxue/CompSci/index.md
-    - 建筑与城市规划类（土木+城规）:
-      - 目录: liuxue/CompSci/index.md
-    - 管理与经济类: 
-      - 目录: liuxue/summary_type/MgmtEcon/index.md
-    - 基础理学科类（数院+物光+化院+生科+高研院）: 
-      - 目录: liuxue/CompSci/index.md
-    - 医学与材料类（医学+材料）:
-      - 目录: liuxue/CompSci/index.md
+    - 陈天行 - MMLab-HKU PhD@CS: liuxue/CompSci/2025/cases/tianxingchen.md
+    - 陈铭康 - HKU MSc@CS: liuxue/CompSci/2025/cases/mingkangchen.md
+    - 张硕 - NUS MSc@ECE: liuxue/CompSci/2025/cases/shuozhang.md
+    - 李晓璐 - Maryland PhD@Stat: liuxue/CompSci/2024/cases/xiaoluli.md
+    - 秦言 - HKUST PhD@ECE: liuxue/CompSci/2024/cases/yanqin.md
+    - 王睿芃 - Upenn MS@CS: liuxue/CompSci/2024/cases/ruipengwang.md
+    - 忆如 - Edinburgh MS@CS: liuxue/CompSci/2024/cases/wenli.md
+    - 苏嘉淇 - HKU MSc@CS: liuxue/CompSci/2024/cases/jiaqisu.md
+    - Anthony - HKUSTgz MSc@CS: liuxue/CompSci/2024/cases/zihaotang.md
+    - 快乐摸鱼生活 - HKUST MSc@TLE: liuxue/CompSci/2024/cases/yuanlan.md
+    - 苏政欣 - Duke@MEM: liuxue/CompSci/2024/cases/zhengxinsu.md
+    - 陈同学 - UMacau@DS: liuxue/CompSci/2024/cases/nuochen.md
+    - 赵子睿 - Rice MCS@CS: liuxue/CompSci/2024/cases/ziruizhao.md
+    - 王楷盛 - NTU@C&A: liuxue/CompSci/2023/cases/kaishengwang.md
+    - 徐子晴 - NUS MSc@VC: liuxue/Economics/2023/cases/ziqingxu.md
+    - 彭镇灿 - Rutgers PhD@CS: liuxue/CompSci/2022/cases/zhencanpeng.md
+    - 詹卓欣 - SFU PhD@CS: liuxue/CompSci/2022/cases/zhuoxinzhan.md
   - 保研:
     - baoyan/index.md
-    - 信息与技术工程类: 
-      - 目录: baoyan/summary_type/InfoTechEng/index.md
-    - 教育与心理发展类（教育+心理+体育）: 
-      - 目录: liuxue/CompSci/index.md
-    - 人文与语言传播类（文院+外院+传院）: 
-      - 目录: liuxue/CompSci/index.md
-    - 政法与社会治理类（法院+马院+政管）: 
-      - 目录: liuxue/CompSci/index.md
-    - 艺术与国际交流类（艺院+国际交流+东京）:
-      - 目录: liuxue/CompSci/index.md
-    - 建筑与城市规划类（土木+城规）:
-      - 目录: liuxue/CompSci/index.md
-    - 管理与经济类（管院+经院+金科）: 
-      - 目录: liuxue/CompSci/index.md
-    - 基础理学科类（数院+物光+化院+生科+高研院）: 
-      - 目录: baoyan/summary_type/SciFundamentals/index.md
-    - 医学与材料类（医学+材料）:
-      - 目录: liuxue/CompSci/index.md
+    - 计软 朱宇飞 - 上科大@CS: baoyan/CompSci/2025/cases/yufeizhu.md
+    - 计软 钟昊天 - 浙大PhD@CS: baoyan/CompSci/2025/cases/haotianzhong.md
+    - 计软 陈潇泳 - 北理工@CS: baoyan/CompSci/2025/cases/xiaoyongchen.md
+    - 计软 李深艺 - 北大PhD@Matl: baoyan/CompSci/2025/cases/shenyili.md
+    - 计软 Mia - 东南@CS: baoyan/CompSci/2025/cases/zhentingliao.md
+    - 计软 李林一 - 南开程明明组PhD@CS: baoyan/CompSci/2025/cases/linyili.md
+    - 计软 宋宗硕 - 成电@CS: baoyan/CompSci/2025/cases/zhongshuosong.md
+    - 计软 张豪杰 - 深大PhD@CS: baoyan/CompSci/2025/cases/haojiezhang.md
+    - 计软 陈镇熙 - 中大@CS: baoyan/CompSci/2025/cases/zhenxichen.md
+    - 计软 陈家豪 - 北大深圳@IC: baoyan/CompSci/2025/cases/jiahaochen.md
+    - 计软 陈婉纯 - 华南理工PhD@CS: baoyan/CompSci/2025/cases/wanchunchen.md
+    - 计软 王淇 - 南科大@Math: baoyan/CompSci/2025/cases/qiwang.md
+    - 吴骏 - 中科院@细胞生物学: baoyan/GradStudies/2025/cases/junwu.md
+    - 计软 苏梓瀚 - 清华深圳@CS: baoyan/CompSci/2024/cases/zihansu.md
+    - 计软 梁霈柔 - 中科大@CS: baoyan/CompSci/2024/cases/peirouliang.md
+    - 计软 汪贝琪 - 华科@CS: baoyan/CompSci/2024/cases/beiqiwang.md
+    - 计软 陈耿 - 北邮@CS: baoyan/CompSci/2024/cases/gengchen.md
+    - 计软 洪钊彦 - 人大信院PhD@CS: baoyan/CompSci/2024/cases/zhaoyanhong.md
+    - 计软 陈俊明 - 电科@CS: baoyan/CompSci/2024/cases/junmingchen.md
+    - 计软 何志浩 - 上交PhD@CS: baoyan/CompSci/2024/cases/zhihaohe.md
+    - 计软 刘涛 - 南开媒体计算实验室@CS: baoyan/CompSci/2024/cases/taoliu.md
+    - 计软 郭奕彤 - 清华深圳@药学: baoyan/CompSci/2024/cases/yitongguo.md
+    - 计软 许宏浩 - 深大VCC优青组@CS: baoyan/CompSci/2023/cases/honghaoxu.md
+    - 计软 曹弈轩 - 深大@CS: baoyan/CompSci/2023/cases/yixuancao.md
+    - 计软 ywh - 厦大MAC实验室@CS: baoyan/CompSci/2023/cases/weihaoye.md
   - 考研:
     - kaoyan/index.md
-    - 信息与技术工程类: 
-      - 目录: kaoyan/summary_type/InfoTechEng/index.md
-    - 教育与心理发展类: 
-      - 目录: kaoyan/summary_type/EduPsych/index.md
-    - 人文与语言传播类: 
-      - 目录: kaoyan/summary_type/HumanitiesCom/index.md
-    - 政法与社会治理类: 
-      - 目录: kaoyan/summary_type/PolLawGov/index.md
-    - 艺术与国际交流类:
-      - 目录: kaoyan/summary_type/ArtIntl/index.md
-    - 建筑与城市规划类（土木+城规）:
-      - 目录: kaoyan/CompSci/index.md
-    - 管理与经济类: 
-      - 目录: kaoyan/summary_type/MgmtEcon/index.md
-    - 基础理学科类: 
-      - 目录: kaoyan/summary_type/SciFundamentals/index.md
-    - 医学与材料类（医学+材料）:
-      - 目录: kaoyan/CompSci/index.md
+    - 颜治强 - 哈工深@CS: kaoyan/CompSci/2024/cases/zhiqiangyan.md
+    - 许厚德 - 中音@作曲: kaoyan/Arts/2023/cases/houdexu.md
+    - 梁洁瑜 - 复旦@心理学: kaoyan/Psychology/2023/cases/jieyuliang.md
+    - 朱芮瑾 - 复旦@心理学: kaoyan/Psychology/2023/cases/ruijinzhu.md
+    - 罗碧璇 - 上交@新传: kaoyan/Media/2023/cases/bixuanluo.md
+    - 曾扬阳 - 中大@哲学: kaoyan/Philosophy/2023/cases/yangyangzeng.md
+    - 王知超 - 上交@电信: kaoyan/InfoTech/2023/cases/zhichaowang.md
+    - 蔡依晴 - 武大@民商法: kaoyan/Law/2023/cases/yiqingcai.md
+    - 陈宇珺 - 法大@法学: kaoyan/Law/2023/cases/yujunchen.md
+    - 谭琬潼 - 浙大@社会学: kaoyan/Sociology/2023/cases/wantongtan.md
+    - 陈雨荷 - 清华@环境工程: kaoyan/ChemEnv/2023/cases/yuhechen.md
   - 就业:
     - jiuye/index.md
-    - 信息与技术工程类: 
-      - 目录: jiuye/summary_type/InfoTechEng/index.md
-    - 教育与心理发展类（教育+心理+体育）: 
-      - 目录: liuxue/CompSci/index.md
-    - 人文与语言传播类（文院+外院+传院）: 
-      - 目录: liuxue/CompSci/index.md
-    - 政法与社会治理类（法院+马院+政管）: 
-      - 目录: liuxue/CompSci/index.md
-    - 艺术与国际交流类（艺院+国际交流+东京）:
-      - 目录: liuxue/CompSci/index.md
-    - 建筑与城市规划类（土木+城规）:
-      - 目录: liuxue/CompSci/index.md
-    - 管理与经济类（管院+经院+金科）: 
-      - 目录: liuxue/CompSci/index.md
-    - 基础理学科类（数院+物光+化院+生科+高研院）: 
-      - 目录: liuxue/CompSci/index.md
-    - 医学与材料类（医学+材料）:
-      - 目录: liuxue/CompSci/index.md
+    - 关浩林 - Kasma实习: jiuye/CompSci/2026/cases/haolinguan.md
+    - 李伟力 - 量化交易: jiuye/CompSci/2025/cases/weilili.md
+    - 陈梓淳 - 腾讯实习转正: jiuye/CompSci/2025/cases/zichunchen.md
+    - 李佳乐 - 腾讯实习转正: jiuye/CompSci/2025/cases/jialeli.md
+    - 闪闪 - 腾讯实习: jiuye/CompSci/2025/cases/yaqinshan.md
+    - 叶可禾 - 腾讯实习: jiuye/CompSci/2025/cases/keheye.md
+    - 刘逸飞 - 腾讯、字节、深信服实习: jiuye/CompSci/2025/cases/yifeiliu.md
+    - 正汰 - 字节: jiuye/InfoTech/2025/cases/taizheng.md
+    - debug君 - 深信服（已离职）+ 美团: jiuye/CompSci/2021/cases/zehongluo.md
 theme:
   name: material
   palette:
