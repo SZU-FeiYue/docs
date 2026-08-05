@@ -81,10 +81,13 @@ hr.narrow {margin: 0 10px}
 * **关浩林**，2026届计软本科生
 * **彭小刚**，深圳大学副教授
 * **何子祺**，2026届计软本科生
+* **廖婉廷**，2027届计软本科生
 
 ## 联系与支持
-负责人邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a><br>
-负责人微信: **TianxingChen_2002**
+负责人陈天行邮箱: <a href="mailto:chentianxing2002@gmail.com">chentianxing2002@gmail.com</a><br>
+负责人微信: **TianxingChen_2002**</a><br>
+负责人何子祺邮箱: <a href="mailto:1450998399@qq.com">1450998399@qq.com</a><br>
+负责人微信: **wxid_eoa7ipjedlb922**
 
 ## 声明
 本手册使用 Material for Mkdocs 构建，在 GitHub 上开源，使用 GitHub Pages 公开发布。

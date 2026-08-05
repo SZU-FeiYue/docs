@@ -2,6 +2,9 @@
 
 > 使用电脑端食用更佳
 
+## 2026届
+- [李尚憬 - 北理@计算机](./CompSci/2026/cases/shangjingli.md)
+
 ## 2024届
 - [颜治强 - 哈工深@CS](./CompSci/2024/cases/zhiqiangyan.md)
 

@@ -2,6 +2,9 @@
 
 > 使用电脑端食用更佳
 
+## 2026届
+- [Don - CUHK MiM](./FinTech/2026/cases/Don.md)
+
 ## 2025届
 - [陈天行 - MMLab-HKU PhD@CS](./CompSci/2025/cases/tianxingchen.md)
 - [陈铭康 - HKU MSc@CS](./CompSci/2025/cases/mingkangchen.md)

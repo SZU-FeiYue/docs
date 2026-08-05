@@ -12,6 +12,7 @@ nav:
     - 友链: main/friendlink.md
   - 留学:
     - liuxue/index.md
+    - Don - CUHK MiM: liuxue/FinTech/2026/cases/Don.md
     - 陈天行 - MMLab-HKU PhD@CS: liuxue/CompSci/2025/cases/tianxingchen.md
     - 陈铭康 - HKU MSc@CS: liuxue/CompSci/2025/cases/mingkangchen.md
     - 张硕 - NUS MSc@ECE: liuxue/CompSci/2025/cases/shuozhang.md
@@ -59,6 +60,7 @@ nav:
     - 计软 ywh - 厦大MAC实验室@CS: baoyan/CompSci/2023/cases/weihaoye.md
   - 考研:
     - kaoyan/index.md
+    - 李尚憬 - 北理@计算机: kaoyan/CompSci/2026/cases/shangjingli.md
     - 颜治强 - 哈工深@CS: kaoyan/CompSci/2024/cases/zhiqiangyan.md
     - 许厚德 - 中音@作曲: kaoyan/Arts/2023/cases/houdexu.md
     - 梁洁瑜 - 复旦@心理学: kaoyan/Psychology/2023/cases/jieyuliang.md
@@ -73,6 +75,7 @@ nav:
   - 就业:
     - jiuye/index.md
     - 关浩林 - Kasma实习: jiuye/CompSci/2026/cases/haolinguan.md
+    - 吴嘉楷 - 字节前端工程师: jiuye/CompSci/2026/cases/jiakaiwu.md
     - 李伟力 - 量化交易: jiuye/CompSci/2025/cases/weilili.md
     - 陈梓淳 - 腾讯实习转正: jiuye/CompSci/2025/cases/zichunchen.md
     - 李佳乐 - 腾讯实习转正: jiuye/CompSci/2025/cases/jialeli.md

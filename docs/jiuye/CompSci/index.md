@@ -4,6 +4,7 @@
 
 ## 2026届
 - [关浩林 - Kasma实习](./2026/cases/haolinguan.md)
+- [吴嘉楷 - 字节前端工程师](./2026/cases/jiakaiwu.md)
 
 ## 2025届
 - [李伟力 - 量化交易](./2025/cases/weilili.md)
