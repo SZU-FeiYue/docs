@@ -2,7 +2,7 @@
 
 ## 背景
 **GPA:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;等级制: 3.2 / 4.5, 百分制: 80 / 100（法方成绩：84/100）, 专业排名: x / 100 , IELTS: 7.5
+&nbsp;&nbsp;&nbsp;&nbsp;等级制: 3.2 / 4.5, 百分制: 80 / 100（法方成绩：84/100）, IELTS: 7.5
 
 **竞赛:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 无<br>
@@ -26,9 +26,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- 无<br>
 
 ## 申请情况
-ps: 可以列出你的申请情况 (❌✅), 可参考[2024届保研经验贴（西交，上交电院，哈工大电信，浙控，中科大，自动化所）](https://zhuanlan.zhihu.com/p/656435604), 例如清深CS❌, 北大软微✅
 
 |  申请项目      |结果|
+|  ----  | ----  |
 |  PolyU QFFT    | ✅ |
 |  CUHK MiM      | ✅ |
 |  WashU MFin    | ✅ |
@@ -61,6 +61,5 @@ ps: 可以列出你的申请情况 (❌✅), 可参考[2024届保研经验贴（
 通常强调多样性的项目对均分要求低（申请中突出自己的“多样性”）
 
 ## 联系方式
-&nbsp;&nbsp;&nbsp;&nbsp;- 主页: xxx<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 邮箱: 160423ydn@gmail.com<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 微信: DONGNINGGGG<br>
