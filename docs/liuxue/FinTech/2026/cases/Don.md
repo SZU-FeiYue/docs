@@ -2,7 +2,8 @@
 
 ## 背景
 **GPA:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;等级制: 3.2 / 4.5, 百分制: 80 / 100（法方成绩：84/100）, IELTS: 7.5
+&nbsp;&nbsp;&nbsp;&nbsp;等级制: 3.2 / 4.5, 百分制: 80 / 100（法方成绩：84/100）, IELTS: 7.5 <br>
+&nbsp;
 
 **竞赛:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 无<br>
@@ -51,6 +52,7 @@
 |  EDU Fin&Invest       | ❌ |
 |  Warwick FinTech      | ❌ |
 |  Manchester MFin      | ❌ |
+
 ...(还有一些记不清了)
 
 最终去向 (院校+研究方向): CUHK MiM
