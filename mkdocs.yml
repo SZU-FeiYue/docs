@@ -8,28 +8,28 @@ copyright: 'Copyright &copy; 2024–2026 SZU Feiyue Team'
 nav:
   - 首页: index.md
   - 留学:
-    - liuxue/index.md
+    - overseas/index.md
     - 2026届:
-      - Don · CUHK MiM: liuxue/FinTech/2026/cases/Don.md
+      - Don · CUHK MiM: overseas/FinTech/2026/cases/Don.md
     - 2025届:
-      - 陈天行 · HKU PhD@CS: liuxue/CompSci/2025/cases/tianxingchen.md
-      - 陈铭康 · HKU MSc@CS: liuxue/CompSci/2025/cases/mingkangchen.md
-      - 张硕 · NUS MSc@ECE: liuxue/CompSci/2025/cases/shuozhang.md
+      - 陈天行 · HKU PhD@CS: overseas/CompSci/2025/cases/tianxingchen.md
+      - 陈铭康 · HKU MSc@CS: overseas/CompSci/2025/cases/mingkangchen.md
+      - 张硕 · NUS MSc@ECE: overseas/CompSci/2025/cases/shuozhang.md
     - 2024届:
-      - 李晓璐 · Maryland PhD@Stat: liuxue/CompSci/2024/cases/xiaoluli.md
-      - 忆如 · Edinburgh MS@CS: liuxue/CompSci/2024/cases/wenli.md
-      - 苏嘉淇 · HKU MSc@CS: liuxue/CompSci/2024/cases/jiaqisu.md
-      - Anthony · HKUSTgz MSc@CS: liuxue/CompSci/2024/cases/zihaotang.md
-      - 快乐摸鱼生活 · HKUST MSc@TLE: liuxue/CompSci/2024/cases/yuanlan.md
-      - 苏政欣 · Duke MEM: liuxue/CompSci/2024/cases/zhengxinsu.md
-      - 陈同学 · UMacau DS: liuxue/CompSci/2024/cases/nuochen.md
-      - 赵子睿 · Rice MCS: liuxue/CompSci/2024/cases/ziruizhao.md
+      - 李晓璐 · Maryland PhD@Stat: overseas/CompSci/2024/cases/xiaoluli.md
+      - 忆如 · Edinburgh MS@CS: overseas/CompSci/2024/cases/wenli.md
+      - 苏嘉淇 · HKU MSc@CS: overseas/CompSci/2024/cases/jiaqisu.md
+      - Anthony · HKUSTgz MSc@CS: overseas/CompSci/2024/cases/zihaotang.md
+      - 快乐摸鱼生活 · HKUST MSc@TLE: overseas/CompSci/2024/cases/yuanlan.md
+      - 苏政欣 · Duke MEM: overseas/CompSci/2024/cases/zhengxinsu.md
+      - 陈同学 · UMacau DS: overseas/CompSci/2024/cases/nuochen.md
+      - 赵子睿 · Rice MCS: overseas/CompSci/2024/cases/ziruizhao.md
     - 2023届:
-      - 王楷盛 · NTU C&A: liuxue/CompSci/2023/cases/kaishengwang.md
-      - 徐子晴 · NUS MSc@VC: liuxue/Economics/2023/cases/ziqingxu.md
+      - 王楷盛 · NTU C&A: overseas/CompSci/2023/cases/kaishengwang.md
+      - 徐子晴 · NUS MSc@VC: overseas/Economics/2023/cases/ziqingxu.md
     - 2022届:
-      - 彭镇灿 · Rutgers PhD@CS: liuxue/CompSci/2022/cases/zhencanpeng.md
-      - 詹卓欣 · SFU PhD@CS: liuxue/CompSci/2022/cases/zhuoxinzhan.md
+      - 彭镇灿 · Rutgers PhD@CS: overseas/CompSci/2022/cases/zhencanpeng.md
+      - 詹卓欣 · SFU PhD@CS: overseas/CompSci/2022/cases/zhuoxinzhan.md
   - 保研:
     - baoyan/index.md
     - 2026届:
@@ -164,6 +164,26 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
+  - redirects:
+      redirect_maps:
+        liuxue/index.md: overseas/index.md
+        liuxue/template.md: overseas/template.md
+        liuxue/FinTech/2026/cases/Don.md: overseas/FinTech/2026/cases/Don.md
+        liuxue/CompSci/2025/cases/tianxingchen.md: overseas/CompSci/2025/cases/tianxingchen.md
+        liuxue/CompSci/2025/cases/mingkangchen.md: overseas/CompSci/2025/cases/mingkangchen.md
+        liuxue/CompSci/2025/cases/shuozhang.md: overseas/CompSci/2025/cases/shuozhang.md
+        liuxue/CompSci/2024/cases/xiaoluli.md: overseas/CompSci/2024/cases/xiaoluli.md
+        liuxue/CompSci/2024/cases/wenli.md: overseas/CompSci/2024/cases/wenli.md
+        liuxue/CompSci/2024/cases/jiaqisu.md: overseas/CompSci/2024/cases/jiaqisu.md
+        liuxue/CompSci/2024/cases/zihaotang.md: overseas/CompSci/2024/cases/zihaotang.md
+        liuxue/CompSci/2024/cases/yuanlan.md: overseas/CompSci/2024/cases/yuanlan.md
+        liuxue/CompSci/2024/cases/zhengxinsu.md: overseas/CompSci/2024/cases/zhengxinsu.md
+        liuxue/CompSci/2024/cases/nuochen.md: overseas/CompSci/2024/cases/nuochen.md
+        liuxue/CompSci/2024/cases/ziruizhao.md: overseas/CompSci/2024/cases/ziruizhao.md
+        liuxue/CompSci/2023/cases/kaishengwang.md: overseas/CompSci/2023/cases/kaishengwang.md
+        liuxue/Economics/2023/cases/ziqingxu.md: overseas/Economics/2023/cases/ziqingxu.md
+        liuxue/CompSci/2022/cases/zhencanpeng.md: overseas/CompSci/2022/cases/zhencanpeng.md
+        liuxue/CompSci/2022/cases/zhuoxinzhan.md: overseas/CompSci/2022/cases/zhuoxinzhan.md
   - search:
       lang:
         - zh

@@ -18,7 +18,7 @@
 
     [保研模板](../baoyan/template.md) · [下载 txt](../baoyan/template_baoyan.txt)
 
-    留学也可对照 [留学模板](../liuxue/template.md)
+    留学也可对照 [留学模板](../overseas/template.md)
 
 -   **就业**
 

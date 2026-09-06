@@ -6,7 +6,7 @@
 
 <div class="grid cards home-tracks" markdown>
 
--   [**留学** · 16](liuxue/index.md)
+-   [**留学** · 16](overseas/index.md)
 -   [**保研** · 24](baoyan/index.md)
 -   [**考研** · 12](kaoyan/index.md)
 -   [**就业** · 9](jiuye/index.md)
@@ -21,7 +21,7 @@
 
 | 栏目 | 篇数 | 主要内容 | 现阶段覆盖 |
 | --- | --- | --- | --- |
-| [留学](liuxue/index.md) | 16 | 出境攻读硕士、博士 | 以香港、新加坡、英国及部分北美项目为主 |
+| [留学](overseas/index.md) | 16 | 出境攻读硕士、博士 | 以香港、新加坡、英国及部分北美项目为主 |
 | [保研](baoyan/index.md) | 24 | 夏令营、预推免、直博 | 计算机与软件学院居多，兼有物理与光电、高等研究院等 |
 | [考研](kaoyan/index.md) | 12 | 统考备考、复试与录取 | 2023 届学科较全；其后计算机方向持续增补 |
 | [就业](jiuye/index.md) | 9 | 实习、校园招聘、实习转正 | 以信息技术类岗位为主 |
@@ -79,7 +79,7 @@
 
     [保研模板](baoyan/template.md) · [下载 txt](baoyan/template_baoyan.txt)
 
-    留学也可对照 [留学模板](liuxue/template.md)
+    留学也可对照 [留学模板](overseas/template.md)
 
 -   **就业**
 
