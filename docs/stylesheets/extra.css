@@ -191,8 +191,12 @@
 
   .md-header__source {
     width: auto;
-    max-width: 8rem;
-    margin-left: 0.4rem;
+    max-width: none;
+    margin-left: 0.5rem;
+  }
+
+  .md-source__facts {
+    display: none;
   }
 
   .md-header--lifted ~ .md-container .md-sidebar {
@@ -204,11 +208,11 @@
   }
 }
 
-@media screen and (min-width: 60em) and (max-width: 76.234375em) {
+@media screen and (min-width: 45em) and (max-width: 76.234375em) {
   .md-header__source {
-    width: 2.2rem;
-    max-width: 2.2rem;
-    overflow: hidden;
+    width: 2.4rem;
+    max-width: 2.4rem;
+    overflow: visible;
     margin-left: 0.2rem;
   }
 
