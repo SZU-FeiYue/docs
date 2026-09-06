@@ -6,7 +6,9 @@ site_author: SZU Feiyue Team
 copyright: 'Copyright &copy; 2024–2026 SZU Feiyue Team'
 
 nav:
-  - 首页: index.md
+  - 首页:
+    - index.md
+    - 贡献: contribute.md
   - 留学:
     - overseas/index.md
     - 2026届:
@@ -184,6 +186,7 @@ plugins:
         liuxue/Economics/2023/cases/ziqingxu.md: overseas/Economics/2023/cases/ziqingxu.md
         liuxue/CompSci/2022/cases/zhencanpeng.md: overseas/CompSci/2022/cases/zhencanpeng.md
         liuxue/CompSci/2022/cases/zhuoxinzhan.md: overseas/CompSci/2022/cases/zhuoxinzhan.md
+        main/contribute.md: contribute.md
   - search:
       lang:
         - zh

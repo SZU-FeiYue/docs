@@ -15,7 +15,7 @@
 - 陈天行：<chentianxing2002@gmail.com> · 微信 `TianxingChen_2002`
 - 何子祺：<1450998399@qq.com> · 微信 `wxid_eoa7ipjedlb922`
 
-投稿请优先看 [贡献指南](contribute.md)。
+投稿请优先看 [贡献](../contribute.md)。
 
 ## 声明
 
