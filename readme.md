@@ -15,12 +15,10 @@ mkdocs serve
 
 源码在本仓库，线上站点是组织主页仓库 [SZU-FeiYue.github.io](https://github.com/SZU-FeiYue/SZU-FeiYue.github.io)。`mkdocs build` 生成的 `site/` 需要同步过去，GitHub Pages 才会更新。
 
-本地发布（需对本仓库和 github.io 都有写权限）：
+用本机 SSH 推到两个仓库即可，不需要 PAT：
 
 ```bash
 ./scripts/sync-github-io.sh
 ```
 
-只构建并提交、不推送：`./scripts/sync-github-io.sh --no-push`。先看将要覆盖哪些文件：`./scripts/sync-github-io.sh --dry-run`。
-
-`main` 推送后，GitHub Actions 会跑同一套脚本。先在本仓库 Settings → Secrets 里加上 `PAGES_DEPLOY_TOKEN`：一把对 `SZU-FeiYue/SZU-FeiYue.github.io` 有 Contents 写权限的 PAT。
+脚本默认 `git@github.com:SZU-FeiYue/SZU-FeiYue.github.io.git`。只提交不推送：`--no-push`。先看将覆盖哪些文件：`--dry-run`。

@@ -13,21 +13,6 @@
   );
 }
 
-[data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #c43b4e;
-  --md-primary-fg-color--light: #d96a78;
-  --md-primary-fg-color--dark: #9b1b30;
-  --md-accent-fg-color: #e07a86;
-  --md-accent-fg-color--transparent: rgba(196, 59, 78, 0.16);
-  --fy-header-gradient: linear-gradient(
-    92deg,
-    #2d0c12 0%,
-    #7a2434 40%,
-    #c45a68 74%,
-    #d49080 100%
-  );
-}
-
 .md-header {
   background: var(--fy-header-gradient) !important;
   box-shadow: none;
@@ -206,8 +191,12 @@
 
   .md-header__source {
     width: auto;
-    max-width: 8rem;
-    margin-left: 0.4rem;
+    max-width: none;
+    margin-left: 0.5rem;
+  }
+
+  .md-source__facts {
+    display: none;
   }
 
   .md-header--lifted ~ .md-container .md-sidebar {
@@ -219,11 +208,11 @@
   }
 }
 
-@media screen and (min-width: 60em) and (max-width: 76.234375em) {
+@media screen and (min-width: 45em) and (max-width: 76.234375em) {
   .md-header__source {
-    width: 2.2rem;
-    max-width: 2.2rem;
-    overflow: hidden;
+    width: 2.4rem;
+    max-width: 2.4rem;
+    overflow: visible;
     margin-left: 0.2rem;
   }
 
@@ -260,29 +249,70 @@ body,
 }
 
 .md-typeset .home-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  column-gap: 0.7rem;
+  row-gap: 0.35rem;
+  margin: 0.15rem 0 0.95rem;
   text-align: center;
-  margin: 0.1rem 0 0.9rem;
 }
 
 .md-typeset .home-logo {
-  margin: 0 0 0.4rem;
+  margin: 0;
+  width: auto;
 }
 
 .md-typeset .home-logo img {
   display: block;
-  margin: 0 auto;
-  height: 2rem;
+  margin: 0;
+  height: 1.7rem;
   width: auto;
 }
 
 .md-typeset .home-hero h1 {
-  margin: 0 0 0.25rem;
+  margin: 0;
+  width: auto;
+  font-size: 1.55em;
+  line-height: 1.15;
 }
 
-.md-typeset .home-hero > p:last-child {
-  margin: 0 auto;
-  max-width: 36rem;
+.md-typeset .home-hero .home-lead {
+  flex: 1 0 100%;
+  margin: 0.15rem 0 0;
+  max-width: none;
   color: var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 29.984375em) {
+  .md-typeset .home-logo img {
+    height: 1.35rem;
+  }
+
+  .md-typeset .home-hero h1 {
+    font-size: 1.35em;
+  }
+
+  .md-typeset .home-hero {
+    column-gap: 0.45rem;
+  }
+}
+
+.md-typeset .grid.cards.home-templates > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.45rem;
+}
+
+.md-typeset .grid.cards.home-templates > ul > li {
+  margin: 0;
+}
+
+@media screen and (min-width: 45em) {
+  .md-typeset .grid.cards.home-templates > ul {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .md-typeset .grid.cards > ul > li {
